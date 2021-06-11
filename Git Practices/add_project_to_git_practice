@@ -1,0 +1,9 @@
+1.Open terminal on folder type "git init"
+
+2.After that add require files init and run a commoand 
+"git add ."
+
+3.To check the changes run a command " git status "
+
+4. Run a commmand {git commit -m "How to add a local project to git" }
+

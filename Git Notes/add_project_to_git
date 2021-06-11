@@ -1,0 +1,15 @@
+How to add a local folder to git Repository
+-------------------------------------------
+
+Step 1: Create a folder in local
+Step 2: Open CMD in same folder
+step 3: run a commond "git init"
+step 4: Add require files init
+step 5: Run a commoand { git add . }
+step 6: To check the added chnages and un-added changes run a command " git status "
+step 7. (If added changes are okay then, )Run a commmand {git commit -m "How to add a local project to git" }
+step 8: Open git crate a new project with the same folder name in the local
+step 9: copy the url given in git " https://github.com/srnFeb26/Git-Practice.git "
+step 10: Run a commond in cmd to add project to git server " git remote add origin https://github.com/srnFeb26/Git-Practice.git "
+step 11: to push run command " git push -u origin main "
+
